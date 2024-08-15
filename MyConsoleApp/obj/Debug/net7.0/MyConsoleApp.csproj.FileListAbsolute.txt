@@ -1,0 +1,33 @@
+C:\Users\josue\labs\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.exe
+C:\Users\josue\labs\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.deps.json
+C:\Users\josue\labs\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.runtimeconfig.json
+C:\Users\josue\labs\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.dll
+C:\Users\josue\labs\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\josue\labs\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\josue\labs\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\labs\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\josue\labs\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\josue\labs\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\josue\labs\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.dll
+C:\Users\josue\labs\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleApp.dll
+C:\Users\josue\labs\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\josue\labs\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\josue\labs\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll
+C:\Users\josue\C# Projects\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\josue\C# Projects\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\C# Projects\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\josue\C# Projects\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\josue\C# Projects\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\josue\C# Projects\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.dll
+C:\Users\josue\C# Projects\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleApp.dll
+C:\Users\josue\C# Projects\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\josue\C# Projects\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.exe
+C:\Users\josue\C# Projects\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.deps.json
+C:\Users\josue\C# Projects\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.runtimeconfig.json
+C:\Users\josue\C# Projects\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.dll
+C:\Users\josue\C# Projects\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\josue\C# Projects\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\josue\C# Projects\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll
+C:\Users\josue\C# Projects\MyConsoleApp\bin\Debug\net7.0\testing.dll
+C:\Users\josue\C# Projects\MyConsoleApp\bin\Debug\net7.0\testing.pdb
+C:\Users\josue\C# Projects\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CopyComplete

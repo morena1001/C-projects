@@ -1,0 +1,96 @@
+i : a
+after : afi
+love : ao
+person : arume
+people : arumesa
+persons : arumesa
+soon : asue
+us : asa
+we : asa
+over : ati
+
+boy : cha
+hit : chanu
+prince : chawe
+positive : chenu
+reach : cheomi
+girl : chi
+dumb : chiti 
+princess : chiwe
+door : chofe
+exit : chofano
+look : choko
+time : choni
+fall : chopo
+water : chu
+map : chue
+
+you : e
+never : eifo
+hope : epe
+elf : eroku
+listen : esuto
+
+old : fai
+woman : fatua 
+women : fatuasa
+womans : fatuasa
+queen : fatuawe
+cry : feano
+school : feiko
+feiro : feel
+miss : fiei
+today : finai
+academy : finaru
+of : fo
+yerterday : fonie
+if : fu
+moon : fuana
+grass : fuchi
+inferior : fuchisho
+quiet : fugu
+hood : fuhu
+front : fuku
+little : fumi
+negative : funa
+going : funeo
+number : futi
+
+down : ga
+enemy : geheju
+a : gi
+animal : giharu
+talk : giho 
+sister : giji
+him : go
+see : goha
+village : goharu
+than : gohi
+pleasure : goitu
+brother : goji
+letter : goto
+
+
+
+previous : tachafe
+did : tae
+daughter : taiseno
+big : tao
+
+be : te
+so : tei
+stupid : teinuto 
+sit : teiru
+being : tere
+
+think : tiame 
+tiwo : best 
+tiwoya : better
+do : to 
+tomorrow : tomoshuna
+letter : towoku
+class : toxu
+
+sky : tue 
+town : tuche
+later : tuwa

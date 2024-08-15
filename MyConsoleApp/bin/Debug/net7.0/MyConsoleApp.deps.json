@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MyConsoleApp/1.0.0": {
+        "dependencies": {
+          "testing": "1.0.0"
+        },
+        "runtime": {
+          "MyConsoleApp.dll": {}
+        }
+      },
+      "testing/1.0.0": {
+        "runtime": {
+          "testing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "testing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

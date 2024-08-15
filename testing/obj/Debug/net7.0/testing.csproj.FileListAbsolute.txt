@@ -1,0 +1,12 @@
+C:\Users\josue\C# Projects\testing\obj\Debug\net7.0\testing.csproj.AssemblyReference.cache
+C:\Users\josue\C# Projects\testing\obj\Debug\net7.0\testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\C# Projects\testing\obj\Debug\net7.0\testing.AssemblyInfoInputs.cache
+C:\Users\josue\C# Projects\testing\obj\Debug\net7.0\testing.AssemblyInfo.cs
+C:\Users\josue\C# Projects\testing\obj\Debug\net7.0\testing.csproj.CoreCompileInputs.cache
+C:\Users\josue\C# Projects\testing\bin\Debug\net7.0\testing.deps.json
+C:\Users\josue\C# Projects\testing\bin\Debug\net7.0\testing.dll
+C:\Users\josue\C# Projects\testing\bin\Debug\net7.0\testing.pdb
+C:\Users\josue\C# Projects\testing\obj\Debug\net7.0\testing.dll
+C:\Users\josue\C# Projects\testing\obj\Debug\net7.0\refint\testing.dll
+C:\Users\josue\C# Projects\testing\obj\Debug\net7.0\testing.pdb
+C:\Users\josue\C# Projects\testing\obj\Debug\net7.0\ref\testing.dll

@@ -1,0 +1,30 @@
+C:\Users\josue\labs\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.exe
+C:\Users\josue\labs\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.deps.json
+C:\Users\josue\labs\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.runtimeconfig.json
+C:\Users\josue\labs\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.dll
+C:\Users\josue\labs\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.pdb
+C:\Users\josue\labs\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.csproj.AssemblyReference.cache
+C:\Users\josue\labs\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\labs\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.AssemblyInfoInputs.cache
+C:\Users\josue\labs\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.AssemblyInfo.cs
+C:\Users\josue\labs\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.csproj.CoreCompileInputs.cache
+C:\Users\josue\labs\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.dll
+C:\Users\josue\labs\MyFormApp\obj\Debug\net7.0-windows\refint\MyFormApp.dll
+C:\Users\josue\labs\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.pdb
+C:\Users\josue\labs\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.genruntimeconfig.cache
+C:\Users\josue\labs\MyFormApp\obj\Debug\net7.0-windows\ref\MyFormApp.dll
+C:\Users\josue\C# Projects\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.exe
+C:\Users\josue\C# Projects\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.deps.json
+C:\Users\josue\C# Projects\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.runtimeconfig.json
+C:\Users\josue\C# Projects\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.dll
+C:\Users\josue\C# Projects\MyFormApp\bin\Debug\net7.0-windows\MyFormApp.pdb
+C:\Users\josue\C# Projects\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.csproj.AssemblyReference.cache
+C:\Users\josue\C# Projects\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\C# Projects\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.AssemblyInfoInputs.cache
+C:\Users\josue\C# Projects\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.AssemblyInfo.cs
+C:\Users\josue\C# Projects\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.csproj.CoreCompileInputs.cache
+C:\Users\josue\C# Projects\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.dll
+C:\Users\josue\C# Projects\MyFormApp\obj\Debug\net7.0-windows\refint\MyFormApp.dll
+C:\Users\josue\C# Projects\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.pdb
+C:\Users\josue\C# Projects\MyFormApp\obj\Debug\net7.0-windows\MyFormApp.genruntimeconfig.cache
+C:\Users\josue\C# Projects\MyFormApp\obj\Debug\net7.0-windows\ref\MyFormApp.dll

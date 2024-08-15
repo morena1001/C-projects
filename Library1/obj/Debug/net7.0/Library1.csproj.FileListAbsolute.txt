@@ -1,0 +1,12 @@
+C:\Users\josue\C# Projects\Library1\bin\Debug\net7.0\Library1.deps.json
+C:\Users\josue\C# Projects\Library1\bin\Debug\net7.0\Library1.dll
+C:\Users\josue\C# Projects\Library1\bin\Debug\net7.0\Library1.pdb
+C:\Users\josue\C# Projects\Library1\obj\Debug\net7.0\Library1.csproj.AssemblyReference.cache
+C:\Users\josue\C# Projects\Library1\obj\Debug\net7.0\Library1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\C# Projects\Library1\obj\Debug\net7.0\Library1.AssemblyInfoInputs.cache
+C:\Users\josue\C# Projects\Library1\obj\Debug\net7.0\Library1.AssemblyInfo.cs
+C:\Users\josue\C# Projects\Library1\obj\Debug\net7.0\Library1.csproj.CoreCompileInputs.cache
+C:\Users\josue\C# Projects\Library1\obj\Debug\net7.0\Library1.dll
+C:\Users\josue\C# Projects\Library1\obj\Debug\net7.0\refint\Library1.dll
+C:\Users\josue\C# Projects\Library1\obj\Debug\net7.0\Library1.pdb
+C:\Users\josue\C# Projects\Library1\obj\Debug\net7.0\ref\Library1.dll

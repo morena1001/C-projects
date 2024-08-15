@@ -1,0 +1,12 @@
+C:\Users\josue\Languages Proper C#\TranslatorLogic\bin\Debug\net7.0\TranslatorLogic.deps.json
+C:\Users\josue\Languages Proper C#\TranslatorLogic\bin\Debug\net7.0\TranslatorLogic.dll
+C:\Users\josue\Languages Proper C#\TranslatorLogic\bin\Debug\net7.0\TranslatorLogic.pdb
+C:\Users\josue\Languages Proper C#\TranslatorLogic\obj\Debug\net7.0\TranslatorLogic.csproj.AssemblyReference.cache
+C:\Users\josue\Languages Proper C#\TranslatorLogic\obj\Debug\net7.0\TranslatorLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Languages Proper C#\TranslatorLogic\obj\Debug\net7.0\TranslatorLogic.AssemblyInfoInputs.cache
+C:\Users\josue\Languages Proper C#\TranslatorLogic\obj\Debug\net7.0\TranslatorLogic.AssemblyInfo.cs
+C:\Users\josue\Languages Proper C#\TranslatorLogic\obj\Debug\net7.0\TranslatorLogic.csproj.CoreCompileInputs.cache
+C:\Users\josue\Languages Proper C#\TranslatorLogic\obj\Debug\net7.0\TranslatorLogic.dll
+C:\Users\josue\Languages Proper C#\TranslatorLogic\obj\Debug\net7.0\refint\TranslatorLogic.dll
+C:\Users\josue\Languages Proper C#\TranslatorLogic\obj\Debug\net7.0\TranslatorLogic.pdb
+C:\Users\josue\Languages Proper C#\TranslatorLogic\obj\Debug\net7.0\ref\TranslatorLogic.dll
